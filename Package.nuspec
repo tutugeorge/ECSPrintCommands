@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
+    <id>ECSPrint.Helper</id>
     <version>1.0.0</version>
     <title>ECS Printer Commands for C#</title>
     <authors>Tutu George</authors>
