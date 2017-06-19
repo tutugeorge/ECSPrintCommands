@@ -7,7 +7,7 @@ namespace ECSPrint
 {
     public static class Command
     {
-        public static char NewLine = (char)10;        
+        public static string NewLine = (char)10 + "";        
         public static string LeftJustify = (char)27 + "a0";
         public static string CenterJustify = (char)27 + "a1";
         public static string RightJustify = (char)27 + "a2";
