@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <title>ECS Printer Commands for C#</title>
+    <authors>Tutu George</authors>
+    <owners>Tutu George</owners>    
+    <projectUrl>https://github.com/tutugeorge/ECSPrintCommands</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ECS Printer Commands for C#</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>pcl, ecs, ecspos, printer, epson</tags>
+  </metadata>
+  <files>
+    <file src="ECSPrinterCommands\bin\Release\ECSPrint.dll" target="lib\portable-net45+wp80+win8+wpa81\ECSPrint.dll" />    
+    <file src="ECSPrinterCommands\bin\Release\ECSPrint.pdb" target="lib\portable-net45+wp80+win8+wpa81\ECSPrint.pdb" />
+  </files>  
+</package>
